@@ -1,0 +1,30 @@
+
+.count-wrapper {
+  display: flex;
+  background-color: #69533B;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  margin: 5px;
+  border: 1px solid #fff7ec;
+   padding: 5px;
+}
+.count {
+  font-size: 16px;  
+  position: relative;
+  font-weight: bold;
+  color: #fff7ec;
+  outline: none;
+}
+
+.counter {
+  padding: 10px 15px;
+  background: none;
+  border: none;
+  outline: none;
+  box-shadow: 0 4px 12px -2px rgba(100, 110, 150, 0.2);
+  font-size: inherit;
+  color: #fff7ec;
+  cursor: pointer;
+  transition: 0.2s all;
+}

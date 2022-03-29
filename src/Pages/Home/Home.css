@@ -1,0 +1,36 @@
+.mainCarousel {
+    width: 60%;
+    margin-right: 5px;
+    
+}
+.mainHome {
+    position: relative;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    border-bottom:  1px solid white;
+    
+}
+ .daily {
+    top: 10%;
+    right: 25%;
+    position: absolute;
+    width: 20%;
+    height: 35%;
+    color: #FFF7EC;
+    border-radius: 50%;
+    background-color: #8A9634;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+ .daily-1 {
+        font-size: 50px;
+        color: #FFF7EC;
+        font-weight: 700;
+        font-family: 'Sacramento', cursive;
+ }
+ .daily-2 {
+    font-size: 20px;
+ }

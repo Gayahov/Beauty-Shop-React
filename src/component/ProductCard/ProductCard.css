@@ -1,0 +1,27 @@
+.quick-view {
+    display: none;
+    position: absolute;
+    width: 80%;
+  top: 45%;
+  padding:15px ;
+  left: 10%;
+    background-color: rgba(240, 248, 247, 0.37);
+  }
+  .myDIV{
+    position: relative;
+    transition: .3;
+  }
+      
+  .myDIV:hover .quick-view{
+    display: block;
+    
+    color:rgb(90, 63, 63)
+  }
+  .buttons{
+    display: flex;
+    flex-direction: column;
+  }
+  .store-header {
+ color:#FBF6F2; ;
+  }
+ 

@@ -1,0 +1,25 @@
+.heder-logo-b {
+    font-size: 80px;
+    color: #FFF7EC;
+    font-weight: 700;
+    font-family: 'Sacramento', cursive;
+
+}
+.header_logo {
+    color: #FFF7EC;
+    letter-spacing: 1px;
+    font-size: 25px;
+    font-weight: 600;
+    margin: 10px;
+}
+.menu {
+    width: 95%;
+    list-style: none;
+    display: flex;
+    font-size: 18px;
+    color:#FFF7EC; 
+    padding: 5px;
+    margin: 40px auto;
+    justify-content: space-around;
+    border-bottom: 1px solid white;
+}
